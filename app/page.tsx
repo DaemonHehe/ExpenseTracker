@@ -11,7 +11,7 @@ export default function LandingPage() {
             <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center text-primary-foreground">
               <Wallet className="h-5 w-5" />
             </div>
-            <span className="font-bold text-xl">SimpleTracker</span>
+            <span className="font-bold text-xl">Expense Tracker</span>
           </div>
           <div className="space-x-4">
             <Link href="/auth/login">
@@ -85,7 +85,7 @@ export default function LandingPage() {
 
       <footer className="border-t py-8">
         <div className="container mx-auto px-4 text-center text-muted-foreground text-sm">
-          © {new Date().getFullYear()} SimpleTracker. All rights reserved.
+          © {new Date().getFullYear()} Dev by Daemon. All rights reserved.
         </div>
       </footer>
     </div>

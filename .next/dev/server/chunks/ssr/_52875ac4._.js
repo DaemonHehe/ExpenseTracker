@@ -54,21 +54,8 @@ const metadata = {
     description: "Track your expenses with ease - manage, analyze, and visualize your spending",
     generator: "v0.app",
     icons: {
-        icon: [
-            {
-                url: "/icon-light-32x32.png",
-                media: "(prefers-color-scheme: light)"
-            },
-            {
-                url: "/icon-dark-32x32.png",
-                media: "(prefers-color-scheme: dark)"
-            },
-            {
-                url: "/icon.svg",
-                type: "image/svg+xml"
-            }
-        ],
-        apple: "/apple-icon.png"
+        icon: "/icon.svg",
+        apple: "/icon.svg"
     }
 };
 function RootLayout({ children }) {
@@ -80,17 +67,17 @@ function RootLayout({ children }) {
                 children: children
             }, void 0, false, {
                 fileName: "[project]/app/layout.tsx",
-                lineNumber: 37,
+                lineNumber: 24,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/app/layout.tsx",
-            lineNumber: 36,
+            lineNumber: 23,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/layout.tsx",
-        lineNumber: 35,
+        lineNumber: 22,
         columnNumber: 5
     }, this);
 }

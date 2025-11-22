@@ -41,7 +41,7 @@ export function DashboardNav() {
           <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center text-primary-foreground">
             <Wallet className="h-5 w-5" />
           </div>
-          <span className="font-bold text-xl hidden md:block">SimpleTracker</span>
+          <span className="font-bold text-xl hidden md:block">Expense Tracker</span>
         </div>
 
         {/* Desktop Navigation */}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Project/Simple%20Expense%20Tracker/app/auth/layout.tsx"],"sourcesContent":["import type { ReactNode } from \"react\"\n\nexport default function AuthLayout({ children }: { children: ReactNode }) {\n  return (\n    <div className=\"min-h-screen w-full flex items-center justify-center bg-muted/30 p-4\">\n      <div className=\"w-full max-w-md space-y-8\">{children}</div>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS,WAAW,EAAE,QAAQ,EAA2B;IACtE,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAI,WAAU;sBAA6B;;;;;;;;;;;AAGlD"}}]
+}
