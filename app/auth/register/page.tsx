@@ -91,7 +91,7 @@ export default function RegisterPage() {
           <Input
             id="password"
             type="password"
-            placeholder="••••••••"
+            placeholder="Create a password"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             required

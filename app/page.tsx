@@ -33,14 +33,14 @@ export default function LandingPage() {
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto text-balance">
               A simple, powerful expense tracker that helps you understand your spending habits and save more money.
             </p>
-            <div className="flex items-center justify-center space-x-4 pt-4">
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4 pt-4">
               <Link href="/auth/register">
-                <Button size="lg" className="h-12 px-8 text-base">
+                <Button size="lg" className="h-12 px-8 text-base w-full sm:w-auto">
                   Start Tracking Free <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </Link>
               <Link href="/auth/login">
-                <Button size="lg" variant="outline" className="h-12 px-8 text-base bg-transparent">
+                <Button size="lg" variant="outline" className="h-12 px-8 text-base bg-transparent w-full sm:w-auto">
                   Log In
                 </Button>
               </Link>
@@ -85,7 +85,7 @@ export default function LandingPage() {
 
       <footer className="border-t py-8">
         <div className="container mx-auto px-4 text-center text-muted-foreground text-sm">
-          © {new Date().getFullYear()} Dev by Daemon. All rights reserved.
+          (c) {new Date().getFullYear()} Built by Daemon. All rights reserved.
         </div>
       </footer>
     </div>

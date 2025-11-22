@@ -1,10 +1,7 @@
 {
   "/api/analytics/monthly/route": "app/api/analytics/monthly/route.js",
   "/api/analytics/summary/route": "app/api/analytics/summary/route.js",
-  "/api/auth/login/route": "app/api/auth/login/route.js",
-  "/api/expenses/route": "app/api/expenses/route.js",
   "/auth/login/page": "app/auth/login/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/expenses/new/page": "app/expenses/new/page.js",
-  "/expenses/page": "app/expenses/page.js"
+  "/auth/register/page": "app/auth/register/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
 }
