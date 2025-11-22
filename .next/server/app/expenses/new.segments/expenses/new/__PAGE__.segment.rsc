@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[83127,["/_next/static/chunks/65341c815942fb4d.js","/_next/static/chunks/5d1f5ef9d4187f37.js","/_next/static/chunks/0262aaaf8b6cc767.js"],"DashboardNav"]
+3:I[77932,["/_next/static/chunks/65341c815942fb4d.js","/_next/static/chunks/5d1f5ef9d4187f37.js","/_next/static/chunks/0262aaaf8b6cc767.js"],"ExpenseForm"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/64c0a5e3a0354479.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"CTzYk4FfkEZxS7Jxni1YV","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-muted/30","children":[["$","$L2",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-8","children":[["$","div",null,{"className":"max-w-xl mx-auto mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight","children":"Add Expense"}],["$","p",null,{"className":"text-muted-foreground","children":"Record a new transaction in your tracker"}]]}],["$","div",null,{"className":"bg-card rounded-xl border shadow-sm p-6 md:p-8","children":["$","$L3",null,{}]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/5d1f5ef9d4187f37.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0262aaaf8b6cc767.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

@@ -1,0 +1,5 @@
+{
+  "/api/analytics/monthly/route": "app/api/analytics/monthly/route.js",
+  "/api/analytics/summary/route": "app/api/analytics/summary/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
